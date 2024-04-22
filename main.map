@@ -1,0 +1,149 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Sun Apr 21 21:43:44 2024
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000002
+                   .org_3       code   0x000005    program   0x00034e
+      .config_8007_MAIN.O       code   0x008007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x0001ab      
+                            0x008007    0x008007      
+            426 out of 8455 program addresses used, program memory utilization is 5%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   ALARMA   0x000154    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 BCD_PARP   0x00016f    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   BOTON0   0x000054    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   BOTON1   0x00006c    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   BOTON2   0x00007e    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   BOTON3   0x000088    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                BTN0_CRON   0x000058    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                BTN0_TEMP   0x00005f    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+          BTN0_TEMP_PAUSE   0x000064    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                BTN1_CRON   0x000070    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                BTN1_TEMP   0x000077    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 BTN3_ADJ   0x000093    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+             CHECK_ALARMA   0x00016a    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                CHECK_DEC   0x000142    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+              CHECK_RLCUR   0x0000cc    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  CLR_INC   0x000124    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                COMP_PARP   0x000176    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 CONFIG__   0x000005    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 CORREGIR   0x000102    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+               CRONOMETRO   0x000108    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+            DECIMAL_A_BCD   0x000189    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                     DECR   0x00012f    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+               DECREMENTA   0x00012d    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 DEC_FILE   0x0000b1    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                DEC_LIM59   0x0000be    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                DEC_LIM99   0x0000b6    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  DEC_MIN   0x00013f    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  DEC_SEG   0x000137    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 FIN_PARP   0x000183    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+               FLANCO_INT   0x000046    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+               INCREMENTA   0x00010e    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 INC_FILE   0x00009e    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                INC_LIM59   0x0000aa    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                INC_LIM99   0x0000a3    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  INC_MIN   0x00011d    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  INC_SEG   0x000116    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                    INTER   0x000036    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 PARP_OFF   0x000180    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  PARP_ON   0x00017d    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                    PAUSE   0x00005c    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 PROGRAMA   0x000035    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   PUNTOS   0x000199    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                RESET_TMR   0x000042    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+             RESTA_DECENA   0x00018b    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                RL_CURSOR   0x0000c6    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                ROTA_DISP   0x0000fa    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                RR_CURSOR   0x0000e2    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 SHOW_DEC   0x0000f2    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                SHOW_DISP   0x0000e5    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+              SHOW_STATUS   0x000193    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 SHOW_UNI   0x0000ea    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+              SUMA_UNIDAD   0x000191    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+            TABLA_7SEG_AC   0x0001a1    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+             TEMPORIZADOR   0x000128    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+               TEMP_PAUSE   0x000069    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  TMR_INT   0x00003a    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+              TOGGLE_BEEP   0x000164    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 CONFIG__   0x000005    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 PROGRAMA   0x000035    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                    INTER   0x000036    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  TMR_INT   0x00003a    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                RESET_TMR   0x000042    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+               FLANCO_INT   0x000046    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   BOTON0   0x000054    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                BTN0_CRON   0x000058    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                    PAUSE   0x00005c    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                BTN0_TEMP   0x00005f    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+          BTN0_TEMP_PAUSE   0x000064    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+               TEMP_PAUSE   0x000069    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   BOTON1   0x00006c    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                BTN1_CRON   0x000070    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                BTN1_TEMP   0x000077    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   BOTON2   0x00007e    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   BOTON3   0x000088    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 BTN3_ADJ   0x000093    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 INC_FILE   0x00009e    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                INC_LIM99   0x0000a3    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                INC_LIM59   0x0000aa    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 DEC_FILE   0x0000b1    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                DEC_LIM99   0x0000b6    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                DEC_LIM59   0x0000be    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                RL_CURSOR   0x0000c6    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+              CHECK_RLCUR   0x0000cc    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                RR_CURSOR   0x0000e2    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                SHOW_DISP   0x0000e5    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 SHOW_UNI   0x0000ea    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 SHOW_DEC   0x0000f2    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                ROTA_DISP   0x0000fa    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 CORREGIR   0x000102    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+               CRONOMETRO   0x000108    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+               INCREMENTA   0x00010e    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  INC_SEG   0x000116    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  INC_MIN   0x00011d    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  CLR_INC   0x000124    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+             TEMPORIZADOR   0x000128    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+               DECREMENTA   0x00012d    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                     DECR   0x00012f    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  DEC_SEG   0x000137    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  DEC_MIN   0x00013f    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                CHECK_DEC   0x000142    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   ALARMA   0x000154    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+              TOGGLE_BEEP   0x000164    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+             CHECK_ALARMA   0x00016a    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 BCD_PARP   0x00016f    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                COMP_PARP   0x000176    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                  PARP_ON   0x00017d    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 PARP_OFF   0x000180    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                 FIN_PARP   0x000183    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+            DECIMAL_A_BCD   0x000189    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+             RESTA_DECENA   0x00018b    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+              SUMA_UNIDAD   0x000191    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+              SHOW_STATUS   0x000193    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+                   PUNTOS   0x000199    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+            TABLA_7SEG_AC   0x0001a1    program     static C:\Users\Admin\Documents\old\Laboratorio 2y3 micro1\main.asm
+
+

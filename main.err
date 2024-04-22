@@ -1,0 +1,21 @@
+Warning[205] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 3 : Found directive in column 1. (list)
+Warning[205] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 4 : Found directive in column 1. (include)
+Warning[205] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 6 : Found directive in column 1. (__CONFIG)
+Message[303] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 6 : Program word too large.  Truncated to core size. (FFE4)
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 40 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 45 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 47 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 50 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 96 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 126 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 128 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 130 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 132 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 135 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 153 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 531 : Using default destination of 1 (file).
+Warning[205] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 572 : Found directive in column 1. (end)
+Message[303] C:\USERS\ADMIN\DOCUMENTS\OLD\LABORATORIO 2Y3 MICRO1\MAIN.ASM 572 : Program word too large.  Truncated to core size. (FFE4)
